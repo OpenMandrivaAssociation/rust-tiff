@@ -5,8 +5,8 @@
 %global crate tiff
 
 Name:           rust-%{crate}
-Version:        0.4.0
-Release:        2%{?dist}
+Version:        0.11.3
+Release:        1%{?dist}
 Summary:        TIFF decoding and encoding library in pure Rust
 
 # Upstream license specification: MIT
